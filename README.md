@@ -1,7 +1,11 @@
-# 安装
+# 我的st终端模拟器
+
+![demo](./demo.png)
+
+## 安装
 	sudo make clean install 
 
-# 补丁
+## 补丁
 	st-alpha-0.8.2.diff                       半透明效果 
 	st-font2-20190416-ba72400.diff            解决彩色emoji配置下中文字体无法显示 
 	st-anysize-20201003-407a3d0.diff          允许st调整到任何像素大小，使内部边框大小动态变化，并使终端内容居中
@@ -14,10 +18,9 @@
 	st-blinking_cursor-20200531-a2a7044.diff  闪烁光标 
 	st-w3m-0.8.3.diff                         w3m终端支持
 
-# 快捷键
+## 快捷键
 	Mod1Mask == Alt
 	ModMask  == Win
-
 
 | 命令                       | 功能                    |
 |----------------------------|-------------------------|
