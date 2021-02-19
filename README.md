@@ -19,15 +19,15 @@
 	st-w3m-0.8.3.diff                         w3m终端支持
 
 ## 快捷键
-	ModMask  == Win
-	Mod1Mask == Alt
+	ModMask  == Alt
+	Mod1Mask == Win
 
 | 命令                       | 功能                    |
 |----------------------------|-------------------------|
 | ModMask + l                | 复制url                 |
-| ModMask + Down             | 终端向下滚动1行         |
-| ModMask + Up               | 终端向上滚动1行         |
-| ModMask + Shift + Down     | 终端向下滚动5行         |
-| ModMask + Shift + Up       | 终端向上滚动5行         |
+| ModMask + Down             | 向下滚动1行             |
+| ModMask + Up               | 向上滚动1行             |
+| ModMask + Shift + Down     | 向下滚动5行             |
+| ModMask + Shift + Up       | 向上滚动5行             |
 
 
